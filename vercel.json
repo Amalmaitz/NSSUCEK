@@ -20,7 +20,7 @@
     "routes":[
         {
             "src":"/(.*)",
-            "dest":"project/wsgi.py"
+            "dest":"nsspr/wsgi.py"
         }
     ],
     "outputDirectory":"static"
